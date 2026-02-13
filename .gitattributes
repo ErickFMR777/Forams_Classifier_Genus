@@ -1,1 +1,2 @@
+*.pth filter=lfs diff=lfs merge=lfs -text
 forams_model.pth !text !filter !merge !diff
