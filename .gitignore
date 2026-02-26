@@ -24,3 +24,4 @@ Thumbs.db
 
 # Streamlit
 .streamlit/secrets.toml
+nohup.out
