@@ -442,9 +442,9 @@ TRANSLATIONS = {
         "fr": "Téléchargez un rapport complet avec les résultats de classification, statistiques et graphiques.",
     },
     "footer_text": {
-        "es": "Clasificador de Foraminíferos Bentónicos · Modelo ResNet-18 · 4 géneros",
-        "en": "Benthic Foraminifera Classifier · ResNet-18 Model · 4 genera",
-        "fr": "Classificateur de Foraminifères Benthiques · Modèle ResNet-18 · 4 genres",
+        "es": "Clasificador de Foraminíferos Bentónicos · 4 géneros",
+        "en": "Benthic Foraminifera Classifier · 4 genera",
+        "fr": "Classificateur de Foraminifères Benthiques · 4 genres",
     },
 }
 
